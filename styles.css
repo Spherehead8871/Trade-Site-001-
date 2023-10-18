@@ -26,9 +26,10 @@ h1 {
 }
 
 button {
+  margin-top: 30px; /* Increased spacing above the button */
   padding: 15px 30px; /* Increased padding for a larger button */
   font-size: 1.2em; /* Slightly increased font size */
-  background-color: #4b0082; /* Darker purple for a more refined color */
+  background-color: #3498db; /* Light blue for a cleaner look */
   color: #fff;
   border: none;
   cursor: pointer;
@@ -36,5 +37,5 @@ button {
 }
 
 button:hover {
-  background-color: #6a5acd; /* Lighter purple on hover */
+  background-color: #2980b9; /* Darker blue on hover */
 }
